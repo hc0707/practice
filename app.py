@@ -1,2 +1,2 @@
-def function(int a, int b):
+def function(a,b):
     return a+b
